@@ -46,6 +46,14 @@ h1 {
     margin-bottom: 30px;
 }
 
+.description {
+    font-size: 15px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 a {
     text-decoration: none;
     color: rgb(240,240,240);
