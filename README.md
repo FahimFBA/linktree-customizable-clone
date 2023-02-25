@@ -13,7 +13,7 @@ Phew! 🤗 What an amazing time it was!
 
 <br>
 
-![Website Preview](website_preview.png)
+![Website Preview](preview.png)
 
 
 ---
